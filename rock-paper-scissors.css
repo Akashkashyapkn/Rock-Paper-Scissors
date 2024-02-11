@@ -1,0 +1,29 @@
+
+        body{
+            background-color:rgb(25,25,25);
+            color:white;
+
+        }
+        p{
+            font-size: 30px;
+            font-weight: bold;font-family: Arial;
+
+        }
+            .move_button{
+                height: 100px;
+                background-color: red;
+                border: none;
+            }
+            .reset_css.autoplay_css{
+                padding: 15px,20px;
+                font-size: 20px;
+                font-weight: bold;
+
+            }
+            .title_button{
+                height:270px;
+                width: 600px;
+                background:none;
+            }
+
+
